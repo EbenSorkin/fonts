@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = Kcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = K;
+}
+);
+width = 1364;
+}
+);
+unicode = 488;
+}

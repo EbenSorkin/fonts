@@ -1,0 +1,63 @@
+{
+glyphname = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = ogonek;
+pos = (615,10);
+},
+{
+name = top;
+pos = (342,1533);
+},
+{
+name = topleft;
+pos = (20,1533);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(411,0,ls),
+(441.667,0,o),
+(467,29.333,o),
+(467,64,cs),
+(467,1469,ls),
+(467,1503.667,o),
+(442.667,1533,o),
+(412,1533,cs),
+(272,1533,ls),
+(241.333,1533,o),
+(216,1503.667,o),
+(216,1469,cs),
+(216,64,l),
+(216,64,l),
+(216,29.333,o),
+(240.333,0,o),
+(271,0,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+13 10 5 2 2 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 12 values pushed */
+0 0 0 12 34 0 1 1 13 1 35 2
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 683;
+}
+);
+note = I;
+unicode = 73;
+}

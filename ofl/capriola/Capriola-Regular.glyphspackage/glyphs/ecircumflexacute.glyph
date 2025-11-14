@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = ecircumflexacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+}
+);
+width = 1195;
+}
+);
+unicode = 7871;
+}

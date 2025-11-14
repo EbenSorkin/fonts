@@ -1,0 +1,49 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(351.333,421,o),
+(428,501,o),
+(428,597,cs),
+(428,644.333,o),
+(411.333,685.333,o),
+(378,720,cs),
+(345.333,754,o),
+(305.333,771,o),
+(258,771,cs),
+(210,771,o),
+(169.333,754,o),
+(136,720,cs),
+(102.667,685.333,o),
+(86,644.333,o),
+(86,597,cs),
+(86,549,o),
+(102.667,507.667,o),
+(136,473,cs),
+(170,438.333,o),
+(210.667,421,o),
+(258,421,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+12 10 5 3 2 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 23 values pushed */
+0 0 1 1 0 1 0 38 0 0 0 1 1 0 39 0 1 0 1 1 0 36 3
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 513;
+}
+);
+note = periodcentered;
+unicode = 183;
+}

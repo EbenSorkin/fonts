@@ -1,0 +1,30 @@
+{
+glyphname = adieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (77,0);
+ref = dieresiscomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 34 values pushed */
+80 79 65 64 88 86 79 93 80 93 73 71 64 78 65 78 63 61 54 53 41 39 33 31 29 27 21 20 13 12 4 1 14 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 71 values pushed */
+22 1 7 2 58 46 9 3 6 7 2 33 0 4 3 2 3 4 2 53 11 1 9 13 10 12 3 8 5 9 8 1 0 41 0 2 0 7 6 2 7 1 0 41 0 3 3 5 1 0 39 0 5 5 15 34 0 6 6 0 1 0 39 1 1 0 0 13 0 35 8
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 1195;
+}
+);
+note = adieresis;
+unicode = 228;
+}

@@ -1,0 +1,16 @@
+{
+color = 3;
+glyphname = ytilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+}
+);
+width = 1193;
+}
+);
+unicode = 7929;
+}

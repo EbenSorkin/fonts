@@ -1,0 +1,49 @@
+{
+color = 3;
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (257,1533);
+},
+{
+name = top;
+pos = (257,1931);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(515,1714,ls),
+(539,1714,o),
+(559,1729.667,o),
+(559,1751,cs),
+(559,1893,ls),
+(559,1915.667,o),
+(539,1931,o),
+(515,1931,cs),
+(-3,1931,ls),
+(-25.667,1931,o),
+(-46,1915.333,o),
+(-46,1894,cs),
+(-46,1752,ls),
+(-46,1729.333,o),
+(-25.667,1714,o),
+(-3,1714,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 0 1 13
+CALL[ ]	/* CallFunction */";
+};
+width = 513;
+}
+);
+note = macron.cap;
+}

@@ -1,0 +1,11 @@
+{
+color = 9;
+glyphname = horncomb;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 795;
+}

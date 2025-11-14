@@ -1,0 +1,30 @@
+{
+glyphname = ccircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (171,0);
+ref = circumflexcomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 26 values pushed */
+45 44 1 0 64 63 56 53 44 68 45 68 38 36 19 17 14 13 6 5 0 43 1 42 10 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 52 values pushed */
+66 1 5 6 1 33 0 6 5 6 55 7 9 2 5 4 5 55 8 1 0 1 3 1 0 3 53 0 3 2 1 3 2 51 0 2 2 54 0 1 1 4 1 0 39 0 4 4 15 1 35 8
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 1193;
+}
+);
+note = ccircumflex;
+unicode = 265;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = L;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (598,0);
+},
+{
+name = center;
+pos = (598,767);
+},
+{
+name = top;
+pos = (598,1533);
+},
+{
+name = topright;
+pos = (1175,1533);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1032,0,ls),
+(1066.667,0,o),
+(1085,25.333,o),
+(1085,56,cs),
+(1085,166,ls),
+(1085,198,o),
+(1066.667,223,o),
+(1032,223,cs),
+(490,223,l),
+(490,1469,ls),
+(490,1503.667,o),
+(465.667,1533,o),
+(435,1533,cs),
+(295,1533,ls),
+(264.333,1533,o),
+(239,1503.667,o),
+(239,1469,cs),
+(239,64,l),
+(239,64,l),
+(239,29.333,o),
+(263.333,0,o),
+(294,0,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 8 values pushed */
+18 15 10 8 5 2 3 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 12 34 0 1 1 2 1 2 39 0 2 2 13 2 35 3
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 1195;
+}
+);
+note = L;
+unicode = 76;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = macron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(600,1371,ls),
+(624,1371,o),
+(644,1386.667,o),
+(644,1408,cs),
+(644,1538,ls),
+(644,1560.667,o),
+(624,1576,o),
+(600,1576,cs),
+(82,1576,ls),
+(59.333,1576,o),
+(39,1560.333,o),
+(39,1539,cs),
+(39,1409,ls),
+(39,1386.333,o),
+(59.333,1371,o),
+(82,1371,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+0 0 0 15 0 13 8 5 3 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 15 values pushed */
+2 1 1 1 0 1 0 39 0 0 0 12 1 35 2
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 683;
+}
+);
+note = macron;
+unicode = 175;
+}

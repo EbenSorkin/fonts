@@ -1,0 +1,39 @@
+{
+glyphname = abreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (258,0);
+ref = brevecomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 30 values pushed */
+66 64 81 79 74 72 70 68 64 86 66 85 63 61 54 53 41 39 33 31 29 27 21 20 13 12 4 1 13 8
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+14
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 75 values pushed */
+22 1 7 2 58 46 9 3 6 7 2 33 10 12 2 8 9 9 8 43 0 4 3 2 3 4 2 53 0 9 0 11 5 9 11 1 2 41 0 2 0 7 6 2 7 1 0 41 0 3 3 5 1 0 39 0 5 5 15 34 0 6 6 0 1 0 39 1 1 0 0 13 0 35 9
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 74 values pushed */
+22 1 7 2 58 46 9 3 6 7 2 33 10 12 2 8 9 8 55 0 4 3 2 3 4 2 53 0 9 0 11 5 9 11 1 2 41 0 2 0 7 6 2 7 1 0 41 0 3 3 5 1 0 39 0 5 5 15 34 0 6 6 0 1 0 39 1 1 0 0 13 0 35 9
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 1195;
+}
+);
+note = abreve;
+unicode = 259;
+}

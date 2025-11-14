@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = Acircumflexgrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+}
+);
+width = 1536;
+}
+);
+unicode = 7846;
+}

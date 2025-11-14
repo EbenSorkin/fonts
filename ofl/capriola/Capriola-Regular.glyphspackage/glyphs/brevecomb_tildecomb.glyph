@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = brevecomb_tildecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (-88,554);
+ref = tildecomb;
+}
+);
+width = 683;
+}
+);
+}

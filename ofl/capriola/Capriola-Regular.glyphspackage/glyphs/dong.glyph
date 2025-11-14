@@ -1,0 +1,11 @@
+{
+color = 4;
+glyphname = dong;
+layers = (
+{
+layerId = m01;
+width = 1200;
+}
+);
+unicode = 8363;
+}

@@ -1,0 +1,11 @@
+{
+color = 6;
+glyphname = commaturnedabovecomb;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 786;
+}

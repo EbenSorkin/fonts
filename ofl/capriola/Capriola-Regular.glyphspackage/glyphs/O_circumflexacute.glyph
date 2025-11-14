@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = Ocircumflexacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+}
+);
+width = 1709;
+}
+);
+unicode = 7888;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = ecaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (195,0);
+ref = caroncomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 24 values pushed */
+49 48 61 60 48 68 49 67 47 45 41 39 37 35 28 27 20 19 10 8 6 4 10 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 69 values pushed */
+58 1 7 8 44 1 6 5 0 1 4 6 3 33 0 8 7 8 55 9 1 7 3 7 55 0 1 4 0 4 1 0 53 0 6 0 4 1 6 4 1 0 41 0 5 5 3 1 0 39 0 3 3 15 34 0 0 0 2 1 0 39 0 2 2 13 2 35 9
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 1195;
+}
+);
+note = ecaron;
+unicode = 283;
+}

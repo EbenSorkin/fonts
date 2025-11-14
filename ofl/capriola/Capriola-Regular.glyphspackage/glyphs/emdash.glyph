@@ -1,0 +1,44 @@
+{
+glyphname = emdash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1752,508,ls),
+(1782.667,508,o),
+(1808,529.333,o),
+(1808,556,cs),
+(1808,651,ls),
+(1808,677.667,o),
+(1782.667,700,o),
+(1752,700,cs),
+(294,700,ls),
+(263.333,700,o),
+(239,678.667,o),
+(239,652,cs),
+(239,557,ls),
+(239,530.333,o),
+(263.333,508,o),
+(294,508,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+0 0 0 15 0 13 8 5 3 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 1 1 0 1 0 38 0 0 0 1 1 0 39 2 1 1 0 1 1 0 36 3
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 2048;
+}
+);
+note = emdash;
+unicode = 8212;
+}

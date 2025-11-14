@@ -1,0 +1,30 @@
+{
+glyphname = ccedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (531,0);
+ref = cedillacomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 18 values pushed */
+60 58 55 54 47 46 42 39 35 33 20 19 16 14 7 5 8 8
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 52 values pushed */
+0 1 1 6 1 33 0 4 5 7 5 4 7 53 0 7 6 5 7 6 51 0 6 1 5 6 1 51 2 1 1 0 0 1 0 1 2 40 0 5 5 3 1 0 39 0 3 3 15 5 35 7
+PUSHB[ ]	/* 1 value pushed */
+59
+CALL[ ]	/* CallFunction */";
+};
+width = 1193;
+}
+);
+note = ccedilla;
+unicode = 231;
+}

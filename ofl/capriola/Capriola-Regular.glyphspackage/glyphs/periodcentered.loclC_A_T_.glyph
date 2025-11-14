@@ -1,0 +1,10 @@
+{
+color = 4;
+glyphname = periodcentered.loclCAT;
+layers = (
+{
+layerId = m01;
+width = 1200;
+}
+);
+}
